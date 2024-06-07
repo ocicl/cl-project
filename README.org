@@ -4,6 +4,6 @@ Generate modern project skeletons
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/fukamachi/cl-project.git |
-| commit  | 8fa2b20                                         |
+| commit  | 0df6de1                                         |
 | systems | cl-project                                      |
 |---------+-------------------------------------------------|
