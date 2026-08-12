@@ -7,4 +7,4 @@ Generate modern project skeletons
 | commit  | 0df6de1                                         |
 | systems | cl-project                                      |
 |---------+-------------------------------------------------|
- 
+  
